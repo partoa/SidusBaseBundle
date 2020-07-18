@@ -1,5 +1,5 @@
 {
-    "name": "sidus/base-bundle",
+    "name": "partoa/base-bundle",
     "description": "Ease the declaration of routing and services for Symfony 3 & 4",
     "keywords": [
         "symfony",
@@ -22,16 +22,16 @@
         }
     },
     "require": {
-        "php": ">=5.6",
-        "symfony/http-kernel": "~3.0|~4.0",
-        "symfony/http-foundation": "~3.0|~4.0",
-        "symfony/dependency-injection": "~3.0|~4.0",
-        "symfony/config": "~3.0|~4.0",
-        "symfony/finder": "~3.0|~4.0",
-        "symfony/form": "~3.0|~4.0",
-        "symfony/options-resolver": "~3.0|~4.0",
-        "symfony/validator": "~3.0|~4.0",
-        "symfony/translation": "~3.0|~4.0",
-        "symfony/var-dumper": "~3.0|~4.0"
+        "php": ">=7.3",
+        "symfony/http-kernel": "^3.0|^4.0|^5.0",
+        "symfony/http-foundation": "^3.0|^4.0|^5.0",
+        "symfony/dependency-injection": "^3.0|^4.0|^5.0",
+        "symfony/config": "^3.0|^4.0|^5.0",
+        "symfony/finder": "^3.0|^4.0|^5.0",
+        "symfony/form": "^3.0|^4.0|^5.0",
+        "symfony/options-resolver": "^3.0|^4.0|^5.0",
+        "symfony/validator": "^3.0|^4.0|^5.0",
+        "symfony/translation": "^3.0|^4.0|^5.0",
+        "symfony/var-dumper": "^3.0|^4.0|^5.0"
     }
 }
